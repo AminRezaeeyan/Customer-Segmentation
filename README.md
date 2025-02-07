@@ -1,4 +1,4 @@
-# Customer Segmentation Project
+# Customer Segmentation
 
 This project aims to segment customers based on their purchasing behavior using different clustering algorithms. The goal is to categorize customers into meaningful groups and provide actionable insights that can be used for targeted marketing strategies and improving customer retention.
 
